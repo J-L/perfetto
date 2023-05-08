@@ -1,6 +1,6 @@
 {
-  "name": "perfetto-ui",
-  "version": "1.0.0",
+  "name": "perfetto-npm-fork",
+  "version": "1.0.3",
   "description": "Perfetto UI",
   "repository": "https://android.googlesource.com/platform/external/perfetto",
   "main": "main.js",
@@ -18,7 +18,6 @@
     "@types/uuid": "^8.3.4",
     "@types/w3c-web-usb": "^1.0.4",
     "color-convert": "^2.0.1",
-    "custom_utils": "file:src/base/utils",
     "devtools-protocol": "0.0.847576",
     "esbuild": "^0.15.12",
     "events": "^3.1.0",
